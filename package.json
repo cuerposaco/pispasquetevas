@@ -1,6 +1,10 @@
 {
   "name": "pispas-test",
   "version": "0.0.1",
+  "engines": {
+    "node": "0.8.x",
+    "npm":  "1.1.x"
+  },
   "dependencies": {
     "express": "latest",
     "jade": "0.15.4"
